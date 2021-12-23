@@ -1,11 +1,9 @@
 # StuffDump
 
-This a **repo** to sort miscellaneous incoming stuff and save it for later use.
+This is a **repo** to sort miscellaneous incoming stuff that is related to the game project and save it for later use.
+
+If you do not known where to put it, use **Incoming** folder.
 
 ## Graphics pipeline
 
-Graphics pipeline final products waiting to be incorporated into the game can go here somewhere ...
-
-## Build pipeline
-
-Everything related to building this project could be stored here as there is no better place :-(
+For example graphics pipeline proposed or final products waiting to be incorporated into the game.
